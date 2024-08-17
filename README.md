@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olayinkagrace&label=Profile%20views&color=0e75b6&style=flat" alt="olayinkagrace" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bunmeetreats" target="blank"><img src="https://img.shields.io/twitter/follow/bunmeetreats?logo=twitter&style=for-the-badge" alt="bunmeetreats" /></a> </p>
-
 - 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **React, Node.js, Next.js, Java, Graphql**
