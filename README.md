@@ -2,55 +2,62 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olayinkagrace&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=olayinkagrace" alt="profile views" />
+</p>
+
+<p align="center">
+  🚀 Building scalable, user-focused web applications
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olayinkagrace&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👩🏽‍💻 About Me
+## 👩🏽‍💻 About Me
+
+I’m a passionate **Full Stack Developer** who enjoys solving problems and building clean, maintainable applications.
+
 - 🌱 Currently learning **Spring Boot**
 - 💬 Ask me about **React, Node.js, Next.js, Java, GraphQL**
-- 📫 Reach me at **olayinka4grace@gmail.com**
+- 📫 **olayinka4grace@gmail.com**
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/olayinka-grace-7031b3200" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-</p>
+## 🤝 Connect With Me
+🔗 LinkedIn → https://www.linkedin.com/in/olayinka-grace-7031b3200
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
+## 🛠️ Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+### 🎨 Frontend  
+⚛️ React · ⏭️ Next.js · 🟦 TypeScript · 🎨 Tailwind · 🅱️ Bootstrap · 🧠 Redux
 
-</p>
+### ⚙️ Backend  
+🟢 Node.js · 🚂 Express · ☕ Java · 🌱 Spring Boot · 🔀 GraphQL
+
+### 🗄️ Databases  
+🐬 MySQL · 🐘 PostgreSQL
+
+### 🔧 Tools & DevOps  
+🐳 Docker · 🌱 Git · 🧪 Postman · 🎨 Figma
 
 ---
 
-### 📊 GitHub Stats
+## 📌 What I Do Best
+✔️ Scalable full-stack apps  
+✔️ Clean API design  
+✔️ Responsive UI/UX  
+✔️ Production-ready code  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olayinkagrace&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olayinkagrace&show_icons=true" />
 </p>
 
 <p align="center">
@@ -59,4 +66,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=olayinkagrace" />
+</p>
+
+---
+
+<p align="center">
+  💡 Always learning • Always building
 </p>
