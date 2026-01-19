@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olayinkagrace" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=olayinkagrace&style=flat" />
 </p>
+
 
 <p align="center">
   🚀 Building scalable, user-focused web applications
